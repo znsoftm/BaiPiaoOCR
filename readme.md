@@ -1,1 +1,1 @@
-We have moved to  [RapidOCR](https:///github.com/znsoftm/RapidOCR)
+We have moved to  [RapidOCR](https://github.com/RapidOCR/RapidOCR)
